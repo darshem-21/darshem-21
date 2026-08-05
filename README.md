@@ -32,58 +32,6 @@
 
 ---
 
-# 💼 Internship
-
-## Android App Development using Generative AI
-**MindMatrix | Feb 2026 – May 2026**
-
-- Built **Kashta-Kala** Android application
-- MVVM Architecture
-- Jetpack Compose
-- Room Database
-- Firebase Integration
-- Gemini AI Integration
-- Offline First Architecture
-- Git & Android Studio
-
----
-
-# 🚀 Featured Projects
-
-## 🌾 Marketplace for Farmers
-
-- Flutter
-- Supabase
-- Geoapify
-- OpenRouter API
-- Authentication
-- Real-time Database
-- AI Generated Product Descriptions
-
----
-
-## 🪵 Kashta-Kala
-
-Digital Design Catalog for Carpenters.
-
-Features
-
-- Design Catalog
-- Material Estimator
-- Price Quote Generator
-- Portfolio
-
----
-
-## 🤖 Spam / Fake Review Detection
-
-- Python
-- NLP
-- Scikit-learn
-- Machine Learning
-
----
-
 # 💻 Tech Stack
 
 <p align="left">
@@ -151,24 +99,6 @@ Features
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action from Platane's snake workflow to make this animation work.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-```
-
----
-
 # 🎯 Current Focus
 
 - Android Development
@@ -177,6 +107,7 @@ jobs:
 - Generative AI
 - Data Analytics
 - DSA
+- MERN
 
 ---
 

@@ -116,6 +116,7 @@
 - 📧 dharshanks98@gmail.com
 - 💼 https://linkedin.com/in/darshan-ks-5678a830b
 - 💻 https://github.com/darshem-21
+- 🏆 https://www.credly.com/users/darshan-ks.acb1033d/badges/credly
 
 ---
 

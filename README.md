@@ -11,6 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=darshem-21&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Darshan%20K%20S-0A66C2?style=for-the-badge&logo=Portfolio)](https://darshem-21.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-darshem--21-181717?style=for-the-badge&logo=github)](https://github.com/darshem-21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan%20K%20S-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/darshan-ks-5678a830b)
 

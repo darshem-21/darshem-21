@@ -22,13 +22,17 @@
 
 🎓 B.E. Artificial Intelligence & Data Science (2022–2026)
 
-📱 Android Developer (Kotlin, Jetpack Compose)
-
-💙 Flutter Developer
-
 🤖 Machine Learning & Generative AI Enthusiast
 
 ☁️ Learning Cloud Technologies
+
+Full-Stack Developer
+
+Data Analyst
+
+💙 Flutter Developer
+
+📱 Android Developer (Kotlin, Jetpack Compose)
 
 ---
 

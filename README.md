@@ -7,7 +7,7 @@
 
 ### Artificial Intelligence & Data Science Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Android+Developer;Flutter+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Android+Developer;Flutter+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Full+Stack+Developer;Data+Analyst)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=darshem-21&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
@@ -26,9 +26,9 @@
 
 ☁️ Learning Cloud Technologies
 
-Full-Stack Developer
+💻Full-Stack Developer
 
-Data Analyst
+📊Data Analyst
 
 💙 Flutter Developer
 
